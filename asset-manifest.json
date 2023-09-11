@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.db8ad8bc.css",
-    "main.js": "/static/js/main.4ca9984e.js",
-    "static/js/787.c09324b8.chunk.js": "/static/js/787.c09324b8.chunk.js",
-    "static/media/robot-assistant.png": "/static/media/robot-assistant.36be4fd91e907c3e8911.png",
-    "index.html": "/index.html",
-    "main.db8ad8bc.css.map": "/static/css/main.db8ad8bc.css.map",
-    "main.4ca9984e.js.map": "/static/js/main.4ca9984e.js.map",
-    "787.c09324b8.chunk.js.map": "/static/js/787.c09324b8.chunk.js.map"
+    "main.css": "/web-robot-deploy/static/css/main.db8ad8bc.css",
+    "main.js": "/web-robot-deploy/static/js/main.af0e4a32.js",
+    "static/js/787.c09324b8.chunk.js": "/web-robot-deploy/static/js/787.c09324b8.chunk.js",
+    "static/media/robot-assistant.png": "/web-robot-deploy/static/media/robot-assistant.36be4fd91e907c3e8911.png",
+    "index.html": "/web-robot-deploy/index.html",
+    "main.db8ad8bc.css.map": "/web-robot-deploy/static/css/main.db8ad8bc.css.map",
+    "main.af0e4a32.js.map": "/web-robot-deploy/static/js/main.af0e4a32.js.map",
+    "787.c09324b8.chunk.js.map": "/web-robot-deploy/static/js/787.c09324b8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.db8ad8bc.css",
-    "static/js/main.4ca9984e.js"
+    "static/js/main.af0e4a32.js"
   ]
 }
